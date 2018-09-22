@@ -2701,7 +2701,7 @@
 			-webkit-align-items: center;
 			-ms-align-items: center;
 			align-items: center;
-			text-align: right;
+			text-align: left;
 		}
 
 			.spotlight.alt > * {
