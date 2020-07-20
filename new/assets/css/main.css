@@ -1,0 +1,7 @@
+@import url(font-awesome.min.css);
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+
+h1 {
+	text-align: center;
+	font-size: 24;
+}
